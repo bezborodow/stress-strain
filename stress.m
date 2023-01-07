@@ -98,17 +98,11 @@ end
 
 format short eng
 
-disp('St1594');
-[E, y, UTS, Ur, Ut, UrA, Ury] = ssplot(
-    'Group 8-St1594.is_tens_RawData/normalised.csv',
-    'figure1_group8_St1594', 'St1594')
+arg_list = argv();
+file = arg_list{1};
+[filepath, name, ext] = fileparts(file);
 
-disp("\nSt1595");
+disp(name);
 [E, y, UTS, Ur, Ut, UrA, Ury] = ssplot(
-    'Group 9-St1595.is_tens_RawData/normalised.csv',
-    'figure2_group9_St1595', 'St1595')
-
-disp("\nAl5005");
-[E, y, UTS, Ur, Ut, UrA, Ury] = ssplot(
-    'Group 7-Al5005.is_tens_RawData/normalised.csv',
-    'figure3_group_7_Al5005', 'Al5005')
+    file,
+    name, name)
