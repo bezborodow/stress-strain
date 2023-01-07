@@ -36,3 +36,8 @@ A stress strain curve will be plotted:
 Additionally, a subplot of the linear region will provide greater detail of the elastic properties of the material:
 
 ![St1594 stress-strain (linear region)](https://raw.githubusercontent.com/bezborodow/stress-strain/main/examples/St1594_1.svg)
+
+
+## Author
+
+2022 Damien Bezborodow
