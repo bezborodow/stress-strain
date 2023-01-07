@@ -103,6 +103,6 @@ file = arg_list{1};
 [filepath, name, ext] = fileparts(file);
 
 disp(name);
+
 [E, y, UTS, Ur, Ut, UrA, Ury] = ssplot(
-    file,
-    name, name)
+    file, name, name)
