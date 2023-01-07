@@ -21,6 +21,8 @@ UrA = 976.8397e+003
 Ury = 664.6275e+003
 ```
 
+**E** = modulus of elasticity, **y** = yield point, **UTS** = ultimate tensile strength (MPa), **Ur** = resilience, **Ut** = toughness, **UrA** = resilience calculated by area using [trapz](https://au.mathworks.com/help/matlab/ref/trapz.html), **Ury**, resilience calculated by yield point.
+
 A stress strain curve will be plotted:
 
 ![St1594 stress-strain](https://raw.githubusercontent.com/bezborodow/stress-strain/main/examples/St1594.svg)
