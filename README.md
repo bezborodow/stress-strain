@@ -10,7 +10,7 @@ This utility will graph a stress-strain plot with [GNU Octave](https://octave.or
 
 ## Usage
 
-An example plot will yield the following output.
+An example plot will give the following output.
 
 ```
 $ octave-cli stress.m examples/St1594.csv
