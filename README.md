@@ -1,12 +1,12 @@
 # `stress.m` Stress-strain Plotter
 
+This utility will graph a stress-strain plot with [GNU Octave](https://octave.org/).
+
 ## Prerequisites
 
 ```
 sudo apt install octave-statistics octave-matgeom
 ```
-
-This utility will graph a stress-strain plot with [GNU Octave](https://octave.org/).
 
 ## Usage
 
