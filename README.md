@@ -40,4 +40,4 @@ Additionally, a subplot of the linear region will provide greater detail of the 
 
 ## Author
 
-2022 Damien Bezborodow
+2022 Damien Bezborodov
