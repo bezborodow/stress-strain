@@ -31,12 +31,15 @@ Ury = 664.6275e+003
 
 A stress strain curve will be plotted:
 
-![St1594 stress-strain](https://raw.githubusercontent.com/bezborodow/stress-strain/main/examples/St1594.svg)
+![St1594 stress-strain](/examples/St1594.svg)
 
 Additionally, a subplot of the linear region will provide greater detail of the elastic properties of the material:
 
-![St1594 stress-strain (linear region)](https://raw.githubusercontent.com/bezborodow/stress-strain/main/examples/St1594_1.svg)
+![St1594 stress-strain (linear region)](/examples/St1594_1.svg)
 
+The data in these examples were obtains from an [Instron universal testing machine](https://www.instron.com/en/resources/test-types/tensile-test).
+
+![St1594 stress-strain (linear region)](/examples/IMG_20220908_114042.jpg)
 
 ## Author
 
