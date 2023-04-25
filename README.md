@@ -44,3 +44,5 @@ The data in these examples were obtained from an [Instron universal testing mach
 ## Author
 
 2022 Damien Bezborodov
+
+This software is in the public domain "AS-IS," without warranty and without liability.
