@@ -1,4 +1,4 @@
-# `stress.m` Stress-strain Plotter
+# Stress-strain Plotter
 
 This utility will graph a stress-strain plot with [GNU Octave](https://octave.org/). [MATLAB](https://www.mathworks.com/products/matlab.html)-compatible.
 
